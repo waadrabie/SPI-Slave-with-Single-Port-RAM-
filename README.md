@@ -30,4 +30,6 @@ A complete **testbench (`spiwrapper_tb`)** simulates SPI Master behavior to veri
 - **Synthesis**: FPGA-compatible (Xilinx/Intel FPGAs)  
 - Testbench-driven simulation (no external SPI Master required).  
 
+## Author
 
+Waad Rabie Mahmoud
